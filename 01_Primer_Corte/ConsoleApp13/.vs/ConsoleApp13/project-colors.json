@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f91dbf3-2cd4-4655-b4cb-d42da8eb4dfb": {
+      "ProjectGuid": "2f91dbf3-2cd4-4655-b4cb-d42da8eb4dfb",
+      "DisplayName": "ConsoleApp13",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

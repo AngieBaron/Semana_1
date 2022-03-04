@@ -1,0 +1,15 @@
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.exe
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.deps.json
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.runtimeconfig.json
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.dll
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ref\ConsoleApp14.dll
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.pdb
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.dll
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ref\ConsoleApp14.dll
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.pdb
+C:\Users\les24\OneDrive\Documentos\Estructura de datos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.genruntimeconfig.cache
